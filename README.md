@@ -10,6 +10,10 @@ There are totally 1200 images in folder 'imagedata', and ground truth in file 'l
 
 The task is to make a function called my_classifier.m that decodes three  digits in an image. 
 
+## Environment
+
+https://www.mathworks.com/products/matlab.html and [Image Processing Toolbox](https://www.mathworks.com/products/image.html) are ready for your computer.
+
 ## Run
 
 1. New a folder named ‘labeledImage’ and run ‘DeNoise.m’
