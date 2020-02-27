@@ -16,7 +16,7 @@ The task is to make a function called my_classifier.m that decodes three  digits
 
 ## Environment
 
-[Matlab](https://www.mathworks.com/products/matlab.html ) [Image Processing Toolbox] and (https://www.mathworks.com/products/image.html) are ready for your computer.
+[Matlab](https://www.mathworks.com/products/matlab.html ) and [Image Processing Toolbox](https://www.mathworks.com/products/image.html) are ready for your computer.
 
 ## Run
 
