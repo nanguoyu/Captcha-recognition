@@ -6,7 +6,7 @@
 
 在这个例子中，我们介绍了对数字图像进行基本的预处理，以及基于CNN的分类器编写。
 
-![sample](.\FigForGithub\sample.png) 
+![sample](FigForGithub\sample.png) 
 
  这些图像看起来像是Google CAPTCHAs， 或者是许多网站都有的验证码。
 
@@ -28,16 +28,16 @@
 ## 它是如何工作的
 
 0. 原始图像是这样的 
-   ![I](.\FigForGithub\I.png)
+   ![I](FigForGithub\I.png)
 
 1. 我们首先将其转换成binary image。  
-    ![Ibinary](.\FigForGithub\Ibinary.png)
+    ![Ibinary](FigForGithub\Ibinary.png)
 
 2. 然后我们用 i`mclose`  去降噪。
-    ![IbinaryAfterClosing](.\FigForGithub\IbinaryAfterClosing.png)
+    ![IbinaryAfterClosing](FigForGithub\IbinaryAfterClosing.png)
 
 3. 我们将降噪后的图像分割成三个大小相同的子图片。每个图里包含一个数字。
-    ![split](.\FigForGithub\split.png)
+    ![split](FigForGithub\split.png)
 4. 我们对所有的图像做这样的操作，并把他们保存在文件夹SplitLabeledImage的子文件夹`0` , `1` , `2` 
 5. 我们设计如下的CNN网络结构
 
