@@ -1,8 +1,10 @@
-# Classification for Number Image
+# Classification for Digital Image
+
+> This is an Matlab project for recognizing noised digital image. What we want is a programme that could automatically  recognizing several noised digital image. The inputs are some images like the following picture, the exception is [2, 0, 2].
 
 In this project, we introduced a classification example for number images.  
 
-Here we have some images like this![sample](sample.png)
+![sample](sample.png)
 
 They are similar to Google CAPTCHAs. 
 
@@ -12,7 +14,7 @@ The task is to make a function called my_classifier.m that decodes three  digits
 
 ## Environment
 
-https://www.mathworks.com/products/matlab.html and [Image Processing Toolbox](https://www.mathworks.com/products/image.html) are ready for your computer.
+[Matlab](https://www.mathworks.com/products/matlab.html ) [Image Processing Toolbox] and (https://www.mathworks.com/products/image.html) are ready for your computer.
 
 ## Run
 
