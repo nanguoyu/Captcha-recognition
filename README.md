@@ -2,6 +2,8 @@
 
 > This is an Matlab project for recognizing noised digital image. What we want is a programme that could automatically  recognizing several noised digital image. The inputs are some images like the following picture, the exception is [2, 0, 2].
 
+[中文介绍](README.CN.md)
+
 In this project, we introduced a classification example for number images.  
 
 ![sample](sample.png)
